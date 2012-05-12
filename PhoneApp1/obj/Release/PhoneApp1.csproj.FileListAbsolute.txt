@@ -1,0 +1,16 @@
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\ApplicationIcon.png
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\Background.png
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\PhoneApp1.dll
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\PhoneApp1.pdb
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\AppManifest.xaml
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\PhoneApp1.xap
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\App.g.i.cs
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\MainPage.g.i.cs
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\PhoneApp1.g.resources
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\PhoneApp1.dll
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\PhoneApp1.pdb
+c:\users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\XapCacheFile.xml
+C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\GyroPage.g.i.cs
+C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\AccelPage.g.i.cs
+C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\CompassPage.g.i.cs
+C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\MotionPage.g.i.cs
