@@ -1,8 +1,8 @@
-﻿<xapCache source="C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\PhoneApp1.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="5/12/2012 1:37:02 PM">
-  <file source="C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="5/12/2012 12:45:59 PM" />
-  <file source="C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Background.png" archivePath="Background.png" lastWriteTime="5/12/2012 11:25:59 AM" />
-  <file source="C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="5/12/2012 11:25:59 AM" />
-  <file source="C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Release\PhoneApp1.dll" archivePath="PhoneApp1.dll" lastWriteTime="5/12/2012 1:37:01 PM" />
-  <file source="C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="5/12/2012 11:25:59 AM" />
-  <file source="C:\Users\usman\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/12/2012 12:45:59 PM" />
+﻿<xapCache source="U:\Forge\Github\Mars.WinFo\PhoneApp1\Bin\Release\PhoneApp1.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="5/22/2012 12:03:50 AM">
+  <file source="U:\Forge\Github\Mars.WinFo\PhoneApp1\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="5/22/2012 12:03:50 AM" />
+  <file source="U:\Forge\Github\Mars.WinFo\PhoneApp1\Background.png" archivePath="Background.png" lastWriteTime="5/22/2012 12:02:10 AM" />
+  <file source="U:\Forge\Github\Mars.WinFo\PhoneApp1\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="5/22/2012 12:02:10 AM" />
+  <file source="U:\Forge\Github\Mars.WinFo\PhoneApp1\obj\Release\PhoneApp1.dll" archivePath="PhoneApp1.dll" lastWriteTime="5/22/2012 12:03:49 AM" />
+  <file source="U:\Forge\Github\Mars.WinFo\PhoneApp1\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="5/22/2012 12:02:10 AM" />
+  <file source="U:\Forge\Github\Mars.WinFo\PhoneApp1\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/22/2012 12:03:50 AM" />
 </xapCache>
